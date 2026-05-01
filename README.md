@@ -7,7 +7,7 @@ A simple Spring Boot CRUD application for practicing Jenkins deployment on AWS E
 - Spring Web
 - Spring Data JPA
 - H2 Database
-- Maven
+
 
 ## API Endpoints
 - `POST /api/students`
